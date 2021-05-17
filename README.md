@@ -1,7 +1,8 @@
 # APLIKASI-TABUNGAN-EXCEL-SEDERHANA
 APLIKASI TABUNGAN EXCEL SEDERHANA
 
-![Screenshot (101)](https://user-images.githubusercontent.com/57186921/118490807-ea3c0200-b750-11eb-9111-92d477bda2f8.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/57186921/118493193-6c2d2a80-b753-11eb-82a3-bd01d74a8c83.png)
+
 
 
 NOTE :
